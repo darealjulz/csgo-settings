@@ -15,6 +15,8 @@
 ## Questions
 ```
 Q: Where do I get the SteamID needed for pasting the files?
-A: There are several web-applications which let you paste in the url of your steam-profile, returning the wanted ID.
+A: There are several web-applications which let you paste in the url of your steam-profile, 
+returning the wanted ID.
       For example [Steam Id Finder](http://steamidfinder.com/).
-      You actually need the so called `Steam 3 ID`, which you can get by clicking on "Looking for Steam 3 ID?" after you searched.```
+      You actually need the so called `Steam 3 ID`, which you can get by 
+      clicking on "Looking for Steam 3 ID?" after you searched.```
