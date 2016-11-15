@@ -14,5 +14,5 @@
 4. Paste in `-novid -console -tickrate 128 -noforcemparms -noforcemspd -high`
 
 ## Questions
-1. * Q: Where can I find my SteamID?
-   * A: There are several web applications, like [STEAMID.CO](http://steamid.co/), which show you the SteamID for your steam account.
+1. Q: Where can I find my SteamID?
+   A: There are several web applications, like [STEAMID.CO](http://steamid.co/), which show you the SteamID for your steam account.
