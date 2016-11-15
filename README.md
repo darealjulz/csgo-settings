@@ -19,7 +19,7 @@
   * No acceleration
   * 1000MHz
  * Windows:
-  * Speed 7/11
+  * Pointer speed 7/11
   * No Acceleration
 
 ## Questions
