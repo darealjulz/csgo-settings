@@ -10,7 +10,7 @@
 ## Set up the launch options:
 1. Right-click on CS:GO in Steam Library
 2. Select "Properties"
-3. Select "Set launch game"
+3. Select "Set launch options"
 4. Paste in `-novid -console -tickrate 128 -noforcemparms -noforcemspd -high`
 
 ## Questions
