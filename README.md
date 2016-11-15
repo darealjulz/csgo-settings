@@ -17,7 +17,7 @@
  * Driver
   * 400 DPI
   * No acceleration
-  * 1000MHz
+  * 1000Hz
  * Windows:
   * Pointer speed 7/11
   * No Acceleration
