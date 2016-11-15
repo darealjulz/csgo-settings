@@ -11,7 +11,7 @@
 1. Right-click on CS:GO in Steam Library
 2. Select "Properties"
 3. Select "Set launch options"
-4. Paste in `-novid -console -tickrate 128 -noforcemparms -noforcemspd -high`
+4. Paste in `-novid -console -tickrate 128 -high -nod3d9ex1`
 
 ## Mouse settings ##
  * Driver
