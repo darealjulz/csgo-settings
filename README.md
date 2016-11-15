@@ -21,7 +21,7 @@
  * Windows:
   * Speed 7/11
   * No Acceleration
-- - - -
+
 ## Questions
 1. Q: Where can I find my SteamID?<br/>
    A: There are several web applications, like [STEAMID.CO](http://steamid.co/), which show you the SteamID for your steam account.
