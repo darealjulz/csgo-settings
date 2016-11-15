@@ -6,7 +6,7 @@
 3. Launch the game
 4. Probably type in console `exec autoexec`
 
-## Set up the launchoptions:
+## Set up the launch options:
 1. Right-Click on CS:GO in Steam Library
 2. Properties
 3. Set launch game
