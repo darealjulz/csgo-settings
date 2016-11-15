@@ -3,7 +3,7 @@
 ## Set up the configuration:
 1. Download
 2. Paste `autoexec.cfg` and `video.txt` in `Steam/userdata/SteamID/730/local/cfg`.
- * Replace "SteamID" with the "Steam 3 ID" of your steam account.
+ * Replace "SteamID" with the actual "Steam 3 ID" of your steam account.
 3. Launch the game
 4. Probably type in console `exec autoexec`
 
