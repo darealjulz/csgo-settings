@@ -14,13 +14,13 @@
 4. Paste in `-novid -console -tickrate 128 -high -nod3d9ex1`
 
 ## Mouse settings ##
- * Driver
+ * Driver:
   * 400 DPI
   * No acceleration
   * 1000Hz
  * Windows:
   * Pointer speed 7/11
-  * No Acceleration
+  * No acceleration
 
 ## Questions ##
 1. Q: Where can I find my SteamID?<br/>
