@@ -3,7 +3,7 @@
 ## How to set up the configuration ##
 1. Download
 2. Paste the files "autoexec.cfg" and "video.txt" in "Steam/userdata/SteamID/730/local/cfg".
- * Replace "SteamID" with the actual Steam 3 ID of your steam account.
+ - Replace "SteamID" with the actual Steam 3 ID of your steam account.
 3. Launch the game
 4. Probably type in console `exec autoexec`
 
@@ -15,11 +15,11 @@
 
 ## Mouse settings ##
  * Driver:
-  * 400 DPI
+  * 800 DPI
   * No acceleration
   * 1000Hz
  * Windows:
-  * Pointer speed 7/11
+  * Pointer speed 6/11
   * No acceleration
 
 ## Questions ##
