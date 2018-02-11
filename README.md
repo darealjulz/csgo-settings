@@ -24,4 +24,4 @@
 
 ## Questions ##
 1. Q: Where can I find my SteamID?<br/>
-   A: There are several web applications, like [STEAMID.CO](http://steamid.co/), which shows you the SteamID for your steam account.
+   A: There are several web applications, like [STEAMID.CO](http://steamid.co/), which show you the SteamID for your steam account.
